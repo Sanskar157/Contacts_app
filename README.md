@@ -1,6 +1,9 @@
 # contacts
 
 A new Flutter project.
+Implemented using clean architecture.
+BLOC state management.
+Hive database for storage.
 
 ## Getting Started
 
